@@ -15,7 +15,7 @@ def actionsequence(graph,goalstate):
     solution.reverse()
     return solution
 
-def dfs():
+def bfs():
     initialstate = (2, 1) 
     goalstate = (0, 5)    
 
@@ -65,4 +65,4 @@ def dfs():
             frontier.append(child)
 
 
-print(dfs())
+print(bfs())
