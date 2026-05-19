@@ -1,2 +1,2 @@
 # Algorithms
-A practice Repository for different algorithms (work in progress)
+A practice Repository for different algorithms (work in progress).
